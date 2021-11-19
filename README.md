@@ -1,2 +1,2 @@
-# format-string
+# Format String
 Format String in Java
